@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso Alpine.js - Aula 5</title>
+    <script src="//unpkg.com/alpinejs" defer></script>
+</head>
+
+<body>
+    <!-- Início Exemplo 1: Checkbox -->
+    <form x-data="{terms:false}">
+        <input type="checkbox" x-model="terms">
+        <button type="submit">Enviar</button>
+        <span x-text="terms"></span>
+    </form>
+    <!-- Fim Exemplo 1: Checkbox -->
+
+    <!-- Início Exemplo 2: Submit Button -->
+    <!-- <form action="" 
+    x-data="{
+        posts:[],
+        submit(){
+            console.log(this.posts)        
+        }
+    }"
+    x-on:submit.prevent="submit()"
+    >
+        <input type="checkbox" x-model="posts" value="1">Post 1<br>
+        <input type="checkbox" x-model="posts" value="2">Post 2<br>
+        <input type="checkbox" x-model="posts" value="3">Post 3<br>
+        <span x-text="posts"></span>
+        <button x-on:click.prevent="submit()">Deletar</button>
+        <button type="submit">Deletar</button>
+    </form> -->
+    <!-- Fim Exemplo 2: Submit Button -->
+
+    <!-- Início Exemplo 3: Select Option -->
+    <!-- <div x-data="{plan:''}">
+        <select x-model="plan">
+            <option value="">Selecione</option>
+            <option value="mensal">mensal</option>
+            <option value="anual">anual</option>
+        </select>
+        <span x-text="plan"></span>
+    </div> -->
+    <!-- Fim Exemplo 3: Select Option -->
+    
+    <!-- Início Exemplo 4: Radio Button -->
+    <form action="" x-data="{plan:'mensal'}">
+        <input type="radio" x-model="plan" value="mensal">
+        <input type="radio" x-model="plan" value="anual">
+        <span x-text="plan"></span>
+    </form>
+    <!-- Fim Exemplo 4: Radio Button -->
+</body>
+
+</html>

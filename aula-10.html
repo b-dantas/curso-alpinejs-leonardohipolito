@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso Alpine.js - Aula 10</title>
+    <script src="//unpkg.com/alpinejs" defer></script>
+</head>
+
+<body>
+    <section x-data="{
+      open:false,
+    }">
+        <button type="button" x-on:click="open=!open">Abre/Fecha</button>
+        <p x-show="open">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <hr>
+        <template x-if="open">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </template>
+        <hr>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sunt reiciendis aspernatur, quaerat fuga delectus
+            ducimus cumque sequi velit beatae illo totam expedita, dolorem commodi rerum inventore! Minus quo sunt
+            ducimus!</p>
+    </section>
+</body>
+
+</html>
