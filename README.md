@@ -9,41 +9,41 @@ Para ajudar quem está fazendo o cursou o já o fez, publiquei aqui os exemplos 
 
 Para acessar o arquivos de exemplo em HTML, basta clicar nos links abaixo de cada aula. Ao lado de cada link, há outro para o vídeo no Youtube [[>>]](#).
 
-- [Aula 1 - Olá mundo](aula-1.html) - [[>>]](https://www.youtube.com/watch?v=rT3MAmX-jxI)
+- [Aula 1 - Olá mundo](aulas/aula-1.html) - [[>>]](https://www.youtube.com/watch?v=rT3MAmX-jxI)
 
 > _No original, o arquivo da aula 1 é index.html. Aqui ele foi renomeado para aula-1.html_
 
-- [Aula 2 - Exibindo e ocultando um elemento](aula-2.html) - [[>>]](https://www.youtube.com/watch?v=dL3X0squbIc)
+- [Aula 2 - Exibindo e ocultando um elemento](aulas/aula-2.html) - [[>>]](https://www.youtube.com/watch?v=dL3X0squbIc)
 
-- [Aula 3 - Utilizando o atributo x-model](aula-3.html) - [[>>]](https://www.youtube.com/watch?v=iW2skUg8m4o)
+- [Aula 3 - Utilizando o atributo x-model](aulas/aula-3.html) - [[>>]](https://www.youtube.com/watch?v=iW2skUg8m4o)
 
-- [Aula 4 - Mini projeto consumindo uma API](aula-4.html) - [[>>]](https://www.youtube.com/watch?v=M9mt5B_1lEU)
+- [Aula 4 - Mini projeto consumindo uma API](aulas/aula-4.html) - [[>>]](https://www.youtube.com/watch?v=M9mt5B_1lEU)
 
-- [Aula 5 - Trabalhando com inputs de formulários](aula-5.html) - [[>>]](https://www.youtube.com/watch?v=0AO6w1ub5R4)
+- [Aula 5 - Trabalhando com inputs de formulários](aulas/aula-5.html) - [[>>]](https://www.youtube.com/watch?v=0AO6w1ub5R4)
 > Os três primeiros exemplos dessa aula estão comentados no código.
 
-- [Aula 6 - Manipulando atributos do HTML](aula-6.html) - [[>>]](https://www.youtube.com/watch?v=EDMTogCUg40)
+- [Aula 6 - Manipulando atributos do HTML](aulas/aula-6.html) - [[>>]](https://www.youtube.com/watch?v=EDMTogCUg40)
 > O primeiro exemplo dessa aula está comentado no código.
 
-- [Aula 7 - Trabalhando com texto e HTML](aula-7.html) - [[>>]](https://www.youtube.com/watch?v=YOMPO4ZTbrk)
+- [Aula 7 - Trabalhando com texto e HTML](aulas/aula-7.html) - [[>>]](https://www.youtube.com/watch?v=YOMPO4ZTbrk)
 
-- [Aula 8 - Trabalhando com listas e array de dados](aula-8.html) - [[>>]](https://www.youtube.com/watch?v=42tMuxyB0s0)
+- [Aula 8 - Trabalhando com listas e array de dados](aulas/aula-8.html) - [[>>]](https://www.youtube.com/watch?v=42tMuxyB0s0)
 
-- [Aula 9 - Projeto prático](aula-9.html) - [[>>]](https://www.youtube.com/watch?v=lhX6XeGBjJ8)
+- [Aula 9 - Projeto prático](aulas/aula-9.html) - [[>>]](https://www.youtube.com/watch?v=lhX6XeGBjJ8)
 
-- [Aula 10 - Exibir e ocultar elementos](aula-10.html) - [[>>]](https://www.youtube.com/watch?v=isVJ58YwHUQ)
+- [Aula 10 - Exibir e ocultar elementos](aulas/aula-10.html) - [[>>]](https://www.youtube.com/watch?v=isVJ58YwHUQ)
 
-- [Aula 11 - Trabalhando com eventos](aula-11.html) - [[>>]](https://www.youtube.com/watch?v=OF_nN9sx2eA&t=19s)
+- [Aula 11 - Trabalhando com eventos](aulas/aula-11.html) - [[>>]](https://www.youtube.com/watch?v=OF_nN9sx2eA&t=19s)
 
-- [Aula 12 - Criando uma janela modal](aula-12.html) - [[>>]](https://www.youtube.com/watch?v=GRwiz2ApaEk)
+- [Aula 12 - Criando uma janela modal](aulas/aula-12.html) - [[>>]](https://www.youtube.com/watch?v=GRwiz2ApaEk)
 
-- [Aula 13 - Monitorar o valor de uma variável](aula-13.html) - [[>>]](https://www.youtube.com/watch?v=DT7oUBOT04E)
+- [Aula 13 - Monitorar o valor de uma variável](aulas/aula-13.html) - [[>>]](https://www.youtube.com/watch?v=DT7oUBOT04E)
 
-- [Aula 14 - Como referenciar um elemento](aula-14.html) - [[>>]](https://www.youtube.com/watch?v=2SsPFfcuCAQ)
+- [Aula 14 - Como referenciar um elemento](aulas/aula-14.html) - [[>>]](https://www.youtube.com/watch?v=2SsPFfcuCAQ)
 
-- [Aula 15 - Como compartilhar dados entre 2 aplicações](aula-15.html) - 
+- [Aula 15 - Como compartilhar dados entre 2 aplicações](aulas/aula-15.html) - 
 [[>>]](https://www.youtube.com/watch?v=B-jdQ_MtFdg)
 
-- [Aula 16 - Criando propriedades mágicas](aula-16.html) - [[>>]](https://www.youtube.com/watch?v=UmYG5IiCFzY)
+- [Aula 16 - Criando propriedades mágicas](aulas/aula-16.html) - [[>>]](https://www.youtube.com/watch?v=UmYG5IiCFzY)
 
-- [Aula 17 - Criando métodos mágicas](aula-17.html) - [[>>]](https://www.youtube.com/watch?v=KYcAc81_Rgs)
+- [Aula 17 - Criando métodos mágicas](aulas/aula-17.html) - [[>>]](https://www.youtube.com/watch?v=KYcAc81_Rgs)
