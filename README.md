@@ -1,6 +1,6 @@
 # Curso Alpine.js por Leonardo Hipólito
 
-@leonardohipolito fez um excelente trabalho a partir de julho de 2022 criando um curso de [Alpine.js](https://alpinejs.dev/) organizado em 17 videoaulas. Porém acho que ele esqueceu de publicar o código dos exemplos que ele utilizou :-p
+[Leonardo Hipólito](https://github.com/leonardohipolito) fez um excelente trabalho a partir de julho de 2022 criando um curso de [Alpine.js](https://alpinejs.dev/) organizado em 17 videoaulas. Porém acho que ele esqueceu de publicar o código dos exemplos que ele utilizou :-p
 
 Para ajudar quem está fazendo o cursou o já o fez, publiquei aqui os exemplos utilizados. A playlist do curso no Youtube você pode acessar [aqui](https://www.youtube.com/playlist?list=PL3hv-2d0ZailHuwuS4a-Ym_Blxf8-Lrud). A playlist [publicada originalmente](https://www.youtube.com/playlist?list=PLchPL6pwIL69A7Tgb6lKEBpoCr3khsP7Y) pelo Leonardo está com alguns vídeos faltando.
 
