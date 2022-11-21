@@ -20,10 +20,10 @@ Para acessar o arquivos de exemplo em HTML, basta clicar nos links abaixo de cad
 - [Aula 4 - Mini projeto consumindo uma API](aulas/aula-4.html) - [[>>]](https://www.youtube.com/watch?v=M9mt5B_1lEU)
 
 - [Aula 5 - Trabalhando com inputs de formulários](aulas/aula-5.html) - [[>>]](https://www.youtube.com/watch?v=0AO6w1ub5R4)
-> Os três primeiros exemplos dessa aula estão comentados no código.
+> _Os três primeiros exemplos dessa aula estão comentados no código._
 
 - [Aula 6 - Manipulando atributos do HTML](aulas/aula-6.html) - [[>>]](https://www.youtube.com/watch?v=EDMTogCUg40)
-> O primeiro exemplo dessa aula está comentado no código.
+> _O primeiro exemplo dessa aula está comentado no código._
 
 - [Aula 7 - Trabalhando com texto e HTML](aulas/aula-7.html) - [[>>]](https://www.youtube.com/watch?v=YOMPO4ZTbrk)
 
@@ -33,17 +33,19 @@ Para acessar o arquivos de exemplo em HTML, basta clicar nos links abaixo de cad
 
 - [Aula 10 - Exibir e ocultar elementos](aulas/aula-10.html) - [[>>]](https://www.youtube.com/watch?v=isVJ58YwHUQ)
 
-- [Aula 11 - Trabalhando com eventos](aulas/aula-11.html) - [[>>]](https://www.youtube.com/watch?v=OF_nN9sx2eA&t=19s)
+> _A partir daqui, os exemplos ainda estão em elaboração_
 
-- [Aula 12 - Criando uma janela modal](aulas/aula-12.html) - [[>>]](https://www.youtube.com/watch?v=GRwiz2ApaEk)
+- _[Aula 11 - Trabalhando com eventos](aulas/aula-11.html) - [[>>]](https://www.youtube.com/watch?v=OF_nN9sx2eA&t=19s)_
 
-- [Aula 13 - Monitorar o valor de uma variável](aulas/aula-13.html) - [[>>]](https://www.youtube.com/watch?v=DT7oUBOT04E)
+- _[Aula 12 - Criando uma janela modal](aulas/aula-12.html) - [[>>]](https://www.youtube.com/watch?v=GRwiz2ApaEk)_
 
-- [Aula 14 - Como referenciar um elemento](aulas/aula-14.html) - [[>>]](https://www.youtube.com/watch?v=2SsPFfcuCAQ)
+- _[Aula 13 - Monitorar o valor de uma variável](aulas/aula-13.html) - [[>>]](https://www.youtube.com/watch?v=DT7oUBOT04E)_
 
-- [Aula 15 - Como compartilhar dados entre 2 aplicações](aulas/aula-15.html) - 
-[[>>]](https://www.youtube.com/watch?v=B-jdQ_MtFdg)
+- _[Aula 14 - Como referenciar um elemento](aulas/aula-14.html) - [[>>]](https://www.youtube.com/watch?v=2SsPFfcuCAQ)_
 
-- [Aula 16 - Criando propriedades mágicas](aulas/aula-16.html) - [[>>]](https://www.youtube.com/watch?v=UmYG5IiCFzY)
+- _[Aula 15 - Como compartilhar dados entre 2 aplicações](aulas/aula-15.html) - 
+[[>>]](https://www.youtube.com/watch?v=B-jdQ_MtFdg)_
 
-- [Aula 17 - Criando métodos mágicas](aulas/aula-17.html) - [[>>]](https://www.youtube.com/watch?v=KYcAc81_Rgs)
+- _[Aula 16 - Criando propriedades mágicas](aulas/aula-16.html) - [[>>]](https://www.youtube.com/watch?v=UmYG5IiCFzY)_
+
+- _[Aula 17 - Criando métodos mágicas](aulas/aula-17.html) - [[>>]](https://www.youtube.com/watch?v=KYcAc81_Rgs)_
